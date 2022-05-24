@@ -1,0 +1,4 @@
+site_name: jtc-rtd-tutor
+site_url: https://jtc-rtd-tutor.readthedocs.io/en/latest/
+nav:
+  - Home: index.md
