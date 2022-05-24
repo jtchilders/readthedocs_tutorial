@@ -2,3 +2,21 @@ site_name: jtc-rtd-tutor
 site_url: https://jtc-rtd-tutor.readthedocs.io/en/latest/
 nav:
   - Home: index.md
+
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'amber'
+    scheme: 'preference'
+  features:
+    - navigation.instant
+    - navigation.tabs
+
+
+extra_css: 
+  - extra.css
+
+extra_javascript: 
+  - mermaid.min.js
